@@ -1,0 +1,22 @@
+.container{
+    border: solid 2px aqua;
+    background-color: black;
+    color: aqua;
+    text-shadow: white;
+    height: 100%;
+    width: 250px;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: cursive;
+    text-align: center;
+    margin: 150px 540px;
+    box-shadow: 5px 5px 5px 5px white;
+}
+body{
+    background-color: black;
+}
+.container :hover{
+    transition: 2s;
+   
+}
